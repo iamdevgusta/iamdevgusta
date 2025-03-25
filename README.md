@@ -10,7 +10,7 @@
 
 - 💻 Desenvolvedor focado em experiências web incríveis
 - ⚡ Curioso por performance, design system e boas práticas
-- 🔥 Amante de TypeScript, React e coisas bem feitas
+- 🔥 Amante de JS, React e coisas bem feitas
 - 🎯 Buscando sempre melhorar como dev e como pessoa
 
 ---
