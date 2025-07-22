@@ -29,10 +29,7 @@
 
 ---
 
-### 🧠 Fun facts
-
-- 😄 Provavelmente testando alguma lib nova agora
-- 🌍 Acredito que código bonito importa sim!
+- 😄 Prefiro react que vue
 - 🐙 GitHub é meu playground
 
 ---
