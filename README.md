@@ -15,10 +15,6 @@ lugares onde disponibilidade, auditoria e controle de acesso não são negociáv
 
 <img src="https://raw.githubusercontent.com/iamdevgusta/iamdevgusta/main/assets/stack.svg" width="760" alt="Tecnologias" />
 
-<br/>
-
-*Em sistema crítico, o bug mais caro é o que parece funcionar.*
-
 </div>
 
 <br/>
