@@ -29,13 +29,4 @@ lugares onde disponibilidade, auditoria e controle de acesso não são negociáv
 - Perímetro e borda: CDN, WAF, cache e tráfego automatizado
 - Consoles de alta densidade onde o operador não pode errar
 - Times pequenos, revisão cruzada e documentação que sobrevive à troca de pessoas
-- Fluxos de engenharia com agentes de IA, com humano decidindo e tudo auditável
 
-<br/>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=iamdevgusta&show_icons=true&theme=transparent&title_color=7dd3fc&icon_color=38bdf8&text_color=94a3b8&hide_border=true&hide_title=true" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevgusta&layout=compact&theme=transparent&title_color=7dd3fc&text_color=94a3b8&hide_border=true&hide_title=true" alt="linguagens" />
-
-</div>
